@@ -1,0 +1,26 @@
+body {
+    background-color: blanchedalmond;
+}
+main {
+    text-align: center;
+    margin: 100px auto;
+    font-weight: 100;
+    font-size: 2.6em;
+}
+.buttons {
+    margin-top: 60px;
+}
+button {
+    width: 180px;
+    font-size: 1.7rem;
+    padding: 5px;
+    color: rgb(184, 120, 3);
+    cursor: pointer;
+}
+
+button:hover {
+    color:white;
+    background-color: orange;
+}
+
+    
